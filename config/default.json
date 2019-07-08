@@ -1,0 +1,9 @@
+{
+    "jwtSecret": "felix_todolist",
+    "db": {
+        "name": "dpsdbwia",
+        "user": "dpsdbwia",
+        "password": "VYiD8Tfo3F7Rrr7qVSWYaUzLJ3PEtbAV",
+        "host": "raja.db.elephantsql.com"
+    }
+}
